@@ -6,8 +6,8 @@ import NavBar from './components/Header/NavBar';
 const App = () => {
   return (
     <div className="App1">
-      <NavBar/>
-      <Main/>
+      <NavBar />
+      <Main />
     </div>
   );
 }
